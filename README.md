@@ -1,2 +1,2 @@
 # coding-practice
-Personal algorithm practice repo
+Repository used to keep track of coding practice and challenges.
